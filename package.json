@@ -1,0 +1,30 @@
+{
+  "name": "FirstReactApp_ByMediumCom",
+  "version": "1.0.0",
+  "description": "Building Your First React.js App",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nowakpiotr/FirstReactApp_ByMediumCom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nowakpiotr/FirstReactApp_ByMediumCom/issues"
+  },
+  "homepage": "https://github.com/nowakpiotr/FirstReactApp_ByMediumCom#readme",
+  "dependencies": {
+    "axios": "^0.13.1",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "superagent": "^2.2.0",
+    "webpack": "^1.13.2"
+  }
+}
