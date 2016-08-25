@@ -4,9 +4,7 @@ class ResultItem extends React.Component {
 
   render () {
 
-    return <div>
-                <h5>ResultItem</h5>
-            </div>;
+      return <li>{this.props.trackName}</li>;
   }
 }
 export default ResultItem;
